@@ -13,8 +13,8 @@
 ---
 
 ### Featured Projects:
-- **[Project Name](https://github.com/shlokbshetty/project-name)** — Brief description of what the project does and key tech stack used.
-- **[Project Name](https://github.com/shlokbshetty/project-name)** — Brief description of what the project does and key tech stack used.
+- **[FreightIQ](https://github.com/shlokbshetty/SIH_Freight-Forecasting)** — Smart India Hackathon platform for freight forecasting and vessel-chartering optimization across India's East Coast ports. Features predictive rate forecasting, berth-feasibility engines, and multi-voyage contract pricing. *(Python, FastAPI, React, TypeScript)*
+- **[HistoSight](https://github.com/shlokbshetty/HistoSight)** — Stain-invariant self-supervised learning (SimCLR + ResNet18) pipeline for histopathology tumor classification on PatchCamelyon (PCam), complete with a FastAPI backend and interactive evaluation dashboard. *(PyTorch, Python, SimCLR, FastAPI)*
 
 ---
 
